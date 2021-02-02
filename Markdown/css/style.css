@@ -64,23 +64,23 @@
     height: 100%;
     width: 100%;
     background-size: 100% 100%;
-    background: url("../img/pexels-fauxels-3184418.jpg") center;
+    background: url("../../img/pexels-fauxels-3184418.jpg") center;
 }
 
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(2) {
     background-size: 100% 100%;
-    background: url("../img/pexels-josh-sorenson-1714208.jpg") center;
+    background: url("../../img/pexels-josh-sorenson-1714208.jpg") center;
 }
 
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(3) {
     background-size: 100% 100%;
-    background: url("../img/pexels-fauxels-3183150.jpg") center;
+    background: url("../../img/pexels-fauxels-3183150.jpg") center;
 }
 
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(4) {
     width: 100%;
     background-size: 100% 100%;
-    background: url("../img/pexels-photo-1779487.jpeg") center;
+    background: url("../../img/pexels-photo-1779487.jpeg") center;
 }
 
 #carouselExampleIndicators .carousel-inner .carousel-item .info {
@@ -118,7 +118,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url("../img/pexels-min-an-1629212.jpg");
+    background-image: url("../../img/pexels-min-an-1629212.jpg");
     height: 100%;
     width: 100%;
     text-align: center;
@@ -130,7 +130,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url("../img/pexels-brett-sayles-2881232.jpg");
+    background-image: url("../../img/pexels-brett-sayles-2881232.jpg");
     height: 100%;
     width: 100%;
     text-align: center;
@@ -142,7 +142,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url("../img/steve-johnson-hokONTrHIAQ-unsplash.jpg");
+    background-image: url("../../img/steve-johnson-hokONTrHIAQ-unsplash.jpg");
     height: 100%;
     width: 100%;
     text-align: center;
@@ -155,7 +155,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url("../img/neven-krcmarek-V4EOZj7g1gw-unsplash.jpg");
+    background-image: url("../../img/neven-krcmarek-V4EOZj7g1gw-unsplash.jpg");
     height: 100%;
     width: 100%;
     text-align: center;
@@ -167,7 +167,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url("../img/daniel-von-appen-Nay_fRcp87g-unsplash.jpg");
+    background-image: url("../../img/daniel-von-appen-Nay_fRcp87g-unsplash.jpg");
     height: 100%;
     width: 100%;
     text-align: center;
@@ -179,7 +179,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url("../img/pexels-fauxels-3182773.jpg");
+    background-image: url("../../img/pexels-fauxels-3182773.jpg");
     height: 100%;
     width: 100%;
     text-align: center;
