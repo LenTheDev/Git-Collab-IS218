@@ -1,4 +1,4 @@
-##Git Collaboration
+# Git Collaboration
 
 ---
 
