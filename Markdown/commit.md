@@ -16,5 +16,12 @@ Git commit creates a commit, which is like a snapshot of your repository. These 
 
 ```git commit -m "create file structure for Git guides```
 
+
+## Changelog
+
+## Group Member:
+* Franklin Tan
+* Lennart Lewis
+
 ## Sources:
 * https://github.com/git-guides/git-commit
