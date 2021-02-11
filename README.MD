@@ -1,7 +1,14 @@
-# Git Collaboration
+# Git Collaboration Project
+___
 
+![GitCollab](img/GitCollab.png)
+___
+
+# Developers
 ## Lennart Lewis  - lhl7@njit.edu 
 ## Franklin Tan - fjt7@njit.edu
+
+___
 
 ## INDEX
 
@@ -19,13 +26,16 @@
 1. [Repository](HTML/Repository.html)
 1. [Status](HTML/Status.html)
 
+___
 
-Added Files for Branch, Clone, Commit, Fork, Merge, and Repository - Franklin Tan
 
 ## Tutorials
 1. [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1312s)
 
+___
+
 ## Changelog
+
 [1.0] - 2021-01-30
 
 Added Files for Branch, Clone, Commit, Fork, Merge, and Repository - Franklin Tan
@@ -51,4 +61,3 @@ Added Automation, Docker, Checkout, Master, Pull, Push, Remote and Status pages 
 
 
 Updated README file index and changelog file - Lennart Lewis 
-
