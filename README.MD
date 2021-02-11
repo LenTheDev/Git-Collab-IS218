@@ -1,5 +1,6 @@
 # Git Collaboration
 
+![GitCollab](img/GitCollab.png)
 ## Lennart Lewis  - lhl7@njit.edu 
 ## Franklin Tan - fjt7@njit.edu
 
